@@ -1,7 +1,7 @@
 # picosystem-tetris
 a PicoSystem version of tetris!
 
-#Controls:
+# Controls:
 Left/right: move falling block
 Down: Increase gravity
 A: CW rotate
@@ -9,7 +9,7 @@ Y: CCW rotate
 B: Drop instant
 X: Mute/unmute
 
-#Build:
+# Build:
 ```
     mkdir build
     cd build
